@@ -1,0 +1,11 @@
+/* Jasny motyw */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #ba2634; /* Twój kolor primary */
+  --md-accent-fg-color: #de2a48;  /* Twój kolor secondary (accent) */
+}
+
+/* Ciemny motyw */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #ba2634;
+  --md-accent-fg-color: #de2a48;
+}
