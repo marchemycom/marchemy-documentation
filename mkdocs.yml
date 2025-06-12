@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: Marchemy docs
+theme:
+  name: material
+  logo: assets/images/marchemy-logo-white.svg
+  favicon: assets/favicons/favicon.ico
+  palette:
+    - scheme: default
+    - scheme: slate
+extra_css:
+  - stylesheets/extra.css
